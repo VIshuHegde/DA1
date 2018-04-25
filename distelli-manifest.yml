@@ -1,4 +1,4 @@
-VishuHegde/DA1:
+VIshuHegde/DA1:
   PkgInclude:
     - '*.zip'
   Env:
@@ -7,7 +7,7 @@ VishuHegde/DA1:
     # Define the Name for the IIS application
     - SITE: Design-Accelerator
     # Define the Directory full path where the IIS application should reside
-    - APPDIR: c:\Design-Accelerator
+    - APPDIR: c:\DA1
   PreInstall:
     - echo "Begin PreInstall"
     - echo "Install any IIS Prerequisites"
@@ -34,11 +34,11 @@ VishuHegde/DA1:
     - echo "Done PreInstall"
   PostInstall:
     - echo "Begin PostInstall"
-    - echo "Unzip Design-Accelerator to Application Directory"
+    - echo "Unzip DA1 to Application Directory"
     # Using Powershell version 2
-    # - PowerShell (New-Object -COM Shell.Application).NameSpace('"%APPDIR%"').CopyHere((New-Object -COM Shell.Application).NameSpace('"%DIStELLI_INSTALLHOME%\Design-Accelerator.zip"').Items(), 1564);
+    # - PowerShell (New-Object -COM Shell.Application).NameSpace('"%APPDIR%"').CopyHere((New-Object -COM Shell.Application).NameSpace('"%DIStELLI_INSTALLHOME%\DA1.zip"').Items(), 1564);
     # Using Powershell version 3+
-    - powershell add-type -assemblyname "system.io.compression.filesystem" ; [System.io.compression.zipfile]::ExtractToDirectory('"%DIStELLI_INSTALLHOME%\Design-Accelerator.zip"','"%APPDIR%"')
+    - powershell add-type -assemblyname "system.io.compression.filesystem" ; [System.io.compression.zipfile]::ExtractToDirectory('"%DIStELLI_INSTALLHOME%\DA1.zip"','"%APPDIR%"')
     - echo "---"
     - echo "Set Directory Attributes"
     - attrib -r %APPDIR%\App_Data /s /d
