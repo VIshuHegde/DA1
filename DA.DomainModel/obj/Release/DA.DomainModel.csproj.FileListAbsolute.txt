@@ -1,0 +1,4 @@
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\bin\Release\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\bin\Release\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\obj\Release\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\obj\Release\DA.DomainModel.pdb

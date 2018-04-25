@@ -1,0 +1,11 @@
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.BusinessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.BusinessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\EntityFramework.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.DataAccessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Release\EntityFramework.xml
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Release\DA.BusinessLayer.csprojResolveAssemblyReference.cache
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Release\DA.BusinessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Release\DA.BusinessLayer.pdb

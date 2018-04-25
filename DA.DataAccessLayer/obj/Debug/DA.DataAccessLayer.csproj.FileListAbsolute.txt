@@ -1,0 +1,24 @@
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.dll.config
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\DA.DomainModel.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\DA.DomainModel.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.dll.config
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\DA.DataAccessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\EntityFramework.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\EntityFramework.xml
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.csprojResolveAssemblyReference.cache
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Debug\DA.DataAccessLayer.pdb

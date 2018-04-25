@@ -1,0 +1,9 @@
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DomainModel\bin\Debug\DA.DomainModel.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DomainModel\bin\Debug\DA.DomainModel.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DomainModel\obj\Debug\DA.DomainModel.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.DomainModel\obj\Debug\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\bin\Debug\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\bin\Debug\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\obj\Debug\DA.DomainModel.csprojResolveAssemblyReference.cache
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\obj\Debug\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DomainModel\obj\Debug\DA.DomainModel.pdb

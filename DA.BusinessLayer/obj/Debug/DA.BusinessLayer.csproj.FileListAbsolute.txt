@@ -1,0 +1,22 @@
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.BusinessLayer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.BusinessLayer.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.DataAccessLayer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.DomainModel.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.DataAccessLayer.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\DA.DomainModel.pdb
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.dll
+D:\VishwaTFSDA\Projects\Design Accelerator Phase2\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.BusinessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.BusinessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\EntityFramework.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.DataAccessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\bin\Debug\EntityFramework.xml
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.csprojResolveAssemblyReference.cache
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.BusinessLayer\obj\Debug\DA.BusinessLayer.pdb

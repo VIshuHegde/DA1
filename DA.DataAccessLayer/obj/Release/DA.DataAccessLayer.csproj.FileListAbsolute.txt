@@ -1,0 +1,12 @@
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\DA.DataAccessLayer.dll.config
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\DA.DataAccessLayer.pdb
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\DA.DomainModel.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\EntityFramework.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\DA.DomainModel.pdb
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\EntityFramework.xml
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Release\DA.DataAccessLayer.csprojResolveAssemblyReference.cache
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Release\DA.DataAccessLayer.dll
+G:\PuppetDemo\Design Accelerator\DA.DataAccessLayer\obj\Release\DA.DataAccessLayer.pdb
